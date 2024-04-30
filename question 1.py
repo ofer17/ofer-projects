@@ -16,4 +16,3 @@ end=int(input("enter the last number plase: "))
 for x in range(start,end+1):
     if is_first(x):
         print(x)
-    
